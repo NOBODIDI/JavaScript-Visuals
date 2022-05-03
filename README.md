@@ -4,6 +4,8 @@ In this project, I create 5 simple visual templates using JavaScript.
 These can be used both to discover fundamentals of JavaScript and also to add visual effects to a website or application. \
 They are highly customizable, and can be applied to many other projects. I hope to do this in the future. 
 
+All visuals were made between February and May 2022
+
 ## To load the visual in a browser
 1. You will need a Command Line Interface (CLI).
 It is already included in macOS but you will need to install one if you are using Windows. I recommend Git CMD.
